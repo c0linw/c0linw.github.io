@@ -33,18 +33,18 @@ My target game in this case was *Call of Duty 2*, released in 2005, so a little 
 ### Locally Invariant Feature Matching (2019)
 Given a pre-computed set of locally invariant keypoints and descriptors for an image, keypoints are matched between two images.  
 Noise and outliers are reduced by first eliminating matches that have significantly different angles from the mean, then performing random sample consensus.
-![Local Invariant Matching](c0linw.github.io/assets/localinvariant.png)
+![Local Invariant Matching](c0linw.github.io/assets/localinvariant.PNG)
 
 <br/>
 ### Texture Synthesis (2019)
 An implementation of the Efros-Leung texture synthesis method. Select a region from which to sample the texture, and a region over which the texture will be synthesized, and a statistically similar texture will be generated.
 ![Texture synthesis region selection](c0linw.github.io/assets/polyselect-paradoxium.png)
-![Texture synthesis result](c0linw.github.io/assets/paradoxium-result.png)
+![Texture synthesis result](c0linw.github.io/assets/paradoxium-result.PNG)
 
 <br/>
 ### Template Matching (2019)
 Basic template matching techniques implemented by correlation with a scaled pyramid.
-![Template matching](c0linw.github.io/assets/students-result.png)
+![Template matching](c0linw.github.io/assets/students-result.PNG)
 
 <br/>
 ### CPSC 221 color pick/fill
