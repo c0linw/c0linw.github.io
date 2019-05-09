@@ -8,14 +8,14 @@ Second year student at University of British Columbia.
 
 ### BMSdori (2019)
 A fork of the iBMSC BMS editor, modified to render note types according to mobile rhythm game *BanG Dream! Girls Band Party!*  
-With a little asset manipulation through tools like UABE and Unity AssetStudio, custom charts can be played in-game.
+With a little asset manipulation through tools like UABE and Unity AssetStudio, custom charts can be played in-game.  
 **The following is a placeholder video showing only the result of a custom chart. Footage of a demonstration of BMSdori's unique features should be added soon.**
   <iframe width="560" height="315" src="https://www.youtube.com/embed/UK53kHPhNWA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
 <br/><br/> 
 ### osu!lazer (2019)
 *osu!* is a rhythm game in which players click circles, or notes, to the beat as the ring around them closes in. *osu!lazer* is a new, open-source version of osu! by the same developer.  
-This video showcases an attempt at a custom gameplay modification, in which circless grow outwards instead of having an approach circle close inwards. Unfortunately, my development of this gameplay modification was discontinued as a different contributor had been able to complete and add it to the game first.
+This video showcases an attempt at a custom gameplay modification, in which circles grow outwards instead of having an approach circle close inwards. Unfortunately, my development of this gameplay modification was discontinued as a different contributor had been able to complete and add it to the game first.
   <iframe width="560" height="315" src="https://www.youtube.com/embed/zumMG05pr34" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br/><br/>
