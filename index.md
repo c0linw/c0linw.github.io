@@ -8,8 +8,9 @@ Second year BSc student at University of British Columbia, majoring in Computer 
 
 ### BMSdori (2019)
 A fork of the iBMSC BMS editor written in Visual Basic, modified to render note types according to mobile rhythm game *BanG Dream! Girls Band Party!*  
+Most notably, "slide" notes do not exist in most tradition BMS format games. This version of the editor render slide notes, which connect notes of the same slide type between lanes, while long notes pair to the next long note within its own lane only.
 With a little asset manipulation through tools like UABE and Unity AssetStudio, custom charts can be played in-game.  
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/UK53kHPhNWA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/0eTcIp8PGuo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
 <br/>
 ### osu!lazer (2019)
