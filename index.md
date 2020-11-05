@@ -11,18 +11,6 @@ A fork of the iBMSC BMS editor written in Visual Basic, modified to render note 
 Most notably, "slide" notes do not exist in most tradition BMS format games. This version of the editor render slide notes, which connect notes of the same slide type between lanes, while long notes pair to the next long note within its own lane only.  
 With a little asset manipulation through tools like UABE and Unity AssetStudio, custom charts can be played in-game.  
   <iframe width="560" height="315" src="https://www.youtube.com/embed/0eTcIp8PGuo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- 
-<br/>
-### osu!lazer (2019)
-*osu!* is a rhythm game in which players click circles, or notes, to the beat as the ring around them closes in. *osu!lazer* is a new, open-source version of osu! by the same developer, written in C#.  
-This video showcases an attempt at a custom gameplay modification, in which circles grow outwards instead of having an approach circle close inwards. Unfortunately, my development of this gameplay modification was discontinued as a different contributor had been able to complete and add it to the game first.
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/zumMG05pr34" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<br/>
-### Call of Duty weapon ports (2015 - 2016)
-One of my first experiences with game modding and a look at how things are done behind the scenes. Call of Duty titles released between 2007 and 2014 generally have good backwards and forward compatability between first-person weapon animations, meaning it is relatively easy to create mods that include weapon assets from different Call of Duty titles if the target game supports modding.  
-My target game in this case was *Call of Duty 2*, released in 2005, so a little experimentation and tweaking was necessary to make weapon animations from later games work on a slightly different first-person rig.
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/otjfoB-HFdU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br/><br/>
 ---
