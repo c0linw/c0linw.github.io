@@ -1,0 +1,18 @@
+{
+    "pageCount": 1,
+    "list": [
+        {
+            "title": "Redo",
+            "artists": "Afterglow",
+            "author": "BanG Dream! Girls Band Party!",
+            "cover": "https://sonolus.com/assets/jacket089.png",
+            "bgm": "https://sonolus.com/assets/bgm089.mp3",
+            "difficulties": [
+                {
+                    "name": "redo",
+                    "rating": 20
+                }
+            ]
+        }
+    ]
+}
