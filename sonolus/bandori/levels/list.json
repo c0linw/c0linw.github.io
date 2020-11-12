@@ -13,6 +13,19 @@
                     "rating": 20
                 }
             ]
+        },
+        {
+            "title": "Redo (engine tweak test)",
+            "artists": "Afterglow",
+            "author": "BanG Dream! Girls Band Party!",
+            "cover": "https://sonolus.com/assets/jacket089.png",
+            "bgm": "https://sonolus.com/assets/bgm089.mp3",
+            "difficulties": [
+                {
+                    "name": "redo",
+                    "rating": 20
+                }
+            ]
         }
     ]
 }
