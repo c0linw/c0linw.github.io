@@ -1,6 +1,6 @@
 # About Me
 
-Second year BSc student at University of British Columbia, majoring in Computer Science.
+Third year BSc student at University of British Columbia, majoring in Computer Science.
 
 ---
 
