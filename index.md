@@ -6,6 +6,13 @@ Second year BSc student at University of British Columbia, majoring in Computer 
 
 ## Personal Projects
 
+### 3D Rhythm Game Prototype (2020-2021)
+Early stage of a touchscreen rhythm game project that uses a perspective-skewed “note highway” to display scrolling notes in a similar fashion to games such as Guitar Hero. Notes are stored in JSON, with a beat-relative format for more intuitive musical understanding. 
+Development of the project has a strong focus towards elements that make a good rhythm game engine, including millisecond-precise audio sync, framerate-independent gameplay, and an easily extendable note storage format.
+Current status: Note renderer complete, currently investigating a solution for framerate-independent input timing precision.
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/9o4hZQ7glgA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br/>
 ### BMSdori (2019)
 A fork of the iBMSC BMS editor written in Visual Basic, modified to render note types according to mobile rhythm game *BanG Dream! Girls Band Party!*  
 Most notably, "slide" notes do not exist in most tradition BMS format games. This version of the editor render slide notes, which connect notes of the same slide type between lanes, while long notes pair to the next long note within its own lane only.  
