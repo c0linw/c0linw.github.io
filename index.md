@@ -9,8 +9,8 @@ Third year BSc student at University of British Columbia, majoring in Computer S
 ### 3D Rhythm Game Prototype (2020-2021)
 Early stage of a touchscreen rhythm game project that uses a perspective-skewed “note highway” to display scrolling notes in a similar fashion to games such as Guitar Hero. Notes are stored in JSON, with a beat-relative format for more intuitive musical understanding. 
 Development of the project has a strong focus towards elements that make a good rhythm game engine, including millisecond-precise audio sync, framerate-independent gameplay, and an easily extendable note storage format.
-Current status: Note renderer complete, currently investigating a solution for framerate-independent input timing precision.
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/9o4hZQ7glgA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Current status: Note renderer + gimmicks like scroll speed variations complete , currently investigating a solution for framerate-independent input timing precision.
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/TuDDODh4w8o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br/>
 ### BMSdori (2019)
