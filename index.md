@@ -32,13 +32,16 @@ With a little asset manipulation through tools like UABE and Unity AssetStudio, 
 
 ## Academic Projects
 
-### Adrift In Somnium (2022)
+### Adrift in Somnium (2022)
 A turn-based 2D roguelike dungeon RPG, developed in collaboration with 5 other students from the CPSC 427 course at UBC. 
 
 As a roguelike game, levels, enemies, and in-game items are generated in a pseudo-random manner. Enemy behaviour is complex, with boss enemies using behaviour trees and common enemies using a custom queueing system to determine turn order and actions.
 
 No game engines or game development libraries were used, aside from a simple entity-component system provided by the course instructors. 
+
 [itch.io link for Adrift in Somnium](https://tocshi.itch.io/adrift-in-somnium)
+
+![Adrift in Somnium gameplay](assets/somnium-kingslime-gameplay.PNG)
 
 <br/>
 ### Locally Invariant Feature Matching (2019)
