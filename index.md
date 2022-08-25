@@ -41,7 +41,7 @@ No game engines or game development libraries were used, aside from a simple ent
 
 [itch.io link for Adrift in Somnium](https://tocshi.itch.io/adrift-in-somnium)
 
-![Adrift in Somnium gameplay](assets/somnium-kingslime-gameplay.PNG)
+![Adrift in Somnium gameplay](assets/somnium-kingslime-gameplay.png)
 
 <br/>
 ### Locally Invariant Feature Matching (2019)
