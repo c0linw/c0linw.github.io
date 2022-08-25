@@ -1,22 +1,29 @@
 # About Me
 
-Third year BSc student at University of British Columbia, majoring in Computer Science.
+Fourth year UBC BSc Computer Science 2022
 
 ---
 
 ## Personal Projects
 
-### 3D Rhythm Game Prototype (2020-2021)
-Early stage of a touchscreen rhythm game project that uses a perspective-skewed “note highway” to display scrolling notes in a similar fashion to games such as Guitar Hero. Notes are stored in JSON, with a beat-relative format for more intuitive musical understanding. 
-Development of the project has a strong focus towards elements that make a good rhythm game engine, including millisecond-precise audio sync, framerate-independent gameplay, and an easily extendable note storage format.
-Current status: Note renderer + gimmicks like scroll speed variations complete , currently investigating a solution for framerate-independent input timing precision.
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/TuDDODh4w8o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### Rhyzinus (2021-2022)
+A 3D rhythm game designed for mobile devices, inspired by Japanese arcade games and other mobile rhythm games. 
+Development of the project is strongly focused on a polished rhythm game experience, with framerate-independent timing judgements and a custom build of the Godot game engine with audio modules for consistent low audio latency. 
+
+Gameplay demo:
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/WmkENbeMcXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br/>
+
+The level editor (a 2D desktop GUI application) was also created using the Godot game engine. This editor application behaves similarly to a simple MIDI editor that scrolls vertically, and it can easily be extended for additional gameplay elements. 
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/PXmPH6qa4-I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br/>
 ### BMSdori (2019)
 A fork of the iBMSC BMS editor written in Visual Basic, modified to render note types according to mobile rhythm game *BanG Dream! Girls Band Party!*  
 Most notably, "slide" notes do not exist in most tradition BMS format games. This version of the editor render slide notes, which connect notes of the same slide type between lanes, while long notes pair to the next long note within its own lane only.  
+
 With a little asset manipulation through tools like UABE and Unity AssetStudio, custom charts can be played in-game.  
+
   <iframe width="560" height="315" src="https://www.youtube.com/embed/0eTcIp8PGuo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br/><br/>
@@ -25,6 +32,15 @@ With a little asset manipulation through tools like UABE and Unity AssetStudio, 
 
 ## Academic Projects
 
+### Adrift In Somnium (2022)
+A turn-based 2D roguelike dungeon RPG, developed in collaboration with 5 other students from the CPSC 427 course at UBC. 
+
+As a roguelike game, levels, enemies, and in-game items are generated in a pseudo-random manner. Enemy behaviour is complex, with boss enemies using behaviour trees and common enemies using a custom queueing system to determine turn order and actions.
+
+No game engines or game development libraries were used, aside from a simple entity-component system provided by the course instructors. 
+[itch.io link for Adrift in Somnium](https://tocshi.itch.io/adrift-in-somnium)
+
+<br/>
 ### Locally Invariant Feature Matching (2019)
 Written in Python. Given a pre-computed set of locally invariant keypoints and descriptors for an image, keypoints are matched between two images.  
 Noise and outliers are reduced by first eliminating matches that have significantly different angles from the mean, then performing random sample consensus to narrow matches down to a group in which lines are closest to the mean.
