@@ -11,11 +11,11 @@ A 3D rhythm game designed for mobile devices, inspired by Japanese arcade games 
 Development of the project is strongly focused on a polished rhythm game experience, with framerate-independent timing judgements and a custom build of the Godot game engine with audio modules for consistent low audio latency. 
 
 Gameplay demo:
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/WmkENbeMcXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/XGloufyBQw4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br/>
 
 The level editor (a 2D desktop GUI application) was also created using the Godot game engine. This editor application behaves similarly to a simple MIDI editor that scrolls vertically, and it can easily be extended for additional gameplay elements. 
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/XGloufyBQw4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/PXmPH6qa4-I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br/>
 ### BMSdori (2019)
